@@ -58,7 +58,6 @@ print(f"[+] GPA           : {profile['gpa']}")
 ### ◈ Languages & Core
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=dc143c)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=dc143c)
-![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=dc143c)
 
 ### ◈ ML / DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=dc143c)

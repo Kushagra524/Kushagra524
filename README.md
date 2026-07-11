@@ -1,326 +1,199 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0010,60:2d0020,100:dc143c&height=220&section=header&text=Kushagra%20Srivastava&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=ML%20%2F%20DL%20%2F%20GenAI%20Developer%20%E2%80%94%20Building%20Real-World%20AI%20Systems&descAlignY=62&descSize=17&descColor=cc4466&animation=fadeIn&stroke=dc143c&strokeWidth=1" />
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=700&height=36&lines=Building+RAG+pipelines+from+scratch+%F0%9F%A7%A0;Training+models+that+actually+ship+to+production+%F0%9F%9A%80;CatBoost+%7C+LangChain+%7C+ChromaDB+%7C+Groq;B.Tech+CSE+%E2%80%94+Sage+University+%7C+GPA+8.93%2F10.0;Kaggle+Competitor+%7C+LeetCode+Daily+Grinder+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- BADGE ROW -->
-[![GitHub](https://img.shields.io/badge/GitHub-Kushagra524-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c&labelColor=0a0a0f)](https://github.com/Kushagra524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushagra_Srivastava-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=dc143c&labelColor=0a0a0f)](https://linkedin.com/in/kushagra-srivastava-19a170332)
-[![Kaggle](https://img.shields.io/badge/Kaggle-kushagrasrivastava21-0a0a0f?style=for-the-badge&logo=kaggle&logoColor=dc143c&labelColor=0a0a0f)](https://kaggle.com/kushagrasrivastava21)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-0a0a0f?style=for-the-badge&logo=gmail&logoColor=dc143c&labelColor=0a0a0f)](mailto:kushagrasrivastava524@gmail.com)
+<!-- ANIME HERO — sakura particles + power-up burst on name reveal -->
+<img src="./assets/hero-anime.svg" width="100%" alt="Kushagra Srivastava" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kushagra524&style=for-the-badge&color=dc143c&labelColor=0a0a0f&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Kushagra524?style=for-the-badge&color=dc143c&labelColor=0a0a0f&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+<!-- scrolling ticker — GitHub sometimes strips <marquee>; if it doesn't render for you, delete this block -->
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <code>🌸 GenAI &nbsp;·&nbsp; ⚡ RAG Pipelines &nbsp;·&nbsp; 🤖 LangChain / LangGraph &nbsp;·&nbsp; 📊 CatBoost / XGBoost / LightGBM &nbsp;·&nbsp; 🔥 Groq &nbsp;·&nbsp; 🏆 Kaggle Competitor &nbsp;·&nbsp; 💻 LeetCode Daily</code>
+</marquee>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kushagra524-180a2c?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=180a2c)](https://github.com/Kushagra524)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-180a2c?style=for-the-badge&logo=linkedin&logoColor=ff2d95&labelColor=180a2c)](https://linkedin.com/in/kushagra-srivastava-19a170332)
+[![Kaggle](https://img.shields.io/badge/Kaggle-kushagrasrivastava21-180a2c?style=for-the-badge&logo=kaggle&logoColor=00e5ff&labelColor=180a2c)](https://kaggle.com/kushagrasrivastava21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kushagra__20-180a2c?style=for-the-badge&logo=leetcode&logoColor=00e5ff&labelColor=180a2c)](https://leetcode.com/kushagra_20)
+[![Gmail](https://img.shields.io/badge/Email-Contact-180a2c?style=for-the-badge&logo=gmail&logoColor=ff2d95&labelColor=180a2c)](mailto:kushagrasrivastava524@gmail.com)
+
+<br/>
+
+<img src="./assets/status-anime.svg" alt="status" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kushagra524&style=for-the-badge&color=ff2d95&labelColor=180a2c&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> whoami`
-
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────
-#  Kushagra Srivastava — ML / DL / GenAI Dev
-# ─────────────────────────────────────────────
-
-profile = {
-    "name"        : "Kushagra Srivastava",
-    "role"        : "ML / DL / GenAI Developer",
-    "university"  : "Sage University, Bhopal (B.Tech CSE — 2024 → 2028)",
-    "gpa"         : "8.93 / 10.0",
-    "focus"       : ["LLMs", "RAG Pipelines", "Production ML", "Competitive ML"],
-    "intern and active on"   : "ML Intern @ Cognifyz IT Solutions Pvt. Ltd.  |  Competing on Kaggle",
-    "daily"       : ["LeetCode grind 🔥", "Open-source contributions (in progress)"],
-    "philosophy"  : "Build first. Optimize second. Ship always.",
-}
-
-print(f"[+] Loaded profile: {profile['name']}")
-print(f"[+] Status        : {profile['currently']}")
-print(f"[+] GPA           : {profile['gpa']}")
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> tech_stack --all`
+## `// how i build — 構築フロー`
 
 <div align="center">
-
-### ◈ Languages & Core
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=dc143c)
-![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=dc143c)
-
-### ◈ ML / DL Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=dc143c)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=dc143c)
-![XGBoost](https://img.shields.io/badge/XGBoost-0a0a0f?style=for-the-badge&logo=xgboost&logoColor=dc143c)
-![LightGBM](https://img.shields.io/badge/LightGBM-0a0a0f?style=for-the-badge&logo=lightgbm&logoColor=dc143c)
-![CatBoost](https://img.shields.io/badge/CatBoost-0a0a0f?style=for-the-badge&logo=catboost&logoColor=dc143c)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=dc143c)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=dc143c)
-
-### ◈ GenAI / LLM Stack
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=langchain&logoColor=dc143c)
-![LangGraph](https://img.shields.io/badge/LangGraph-0a0a0f?style=for-the-badge&logo=langchain&logoColor=dc143c)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=dc143c)
-![Groq](https://img.shields.io/badge/Groq-0a0a0f?style=for-the-badge&logo=groq&logoColor=dc143c)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0f?style=for-the-badge&logo=openai&logoColor=dc143c)
-
-### ◈ Vector Stores & Retrieval
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0a0a0f?style=for-the-badge&logo=databricks&logoColor=dc143c)
-![FAISS](https://img.shields.io/badge/FAISS-0a0a0f?style=for-the-badge&logo=meta&logoColor=dc143c)
-
-### ◈ Deployment & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0f?style=for-the-badge&logo=streamlit&logoColor=dc143c)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=dc143c)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0f?style=for-the-badge&logo=jupyter&logoColor=dc143c)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visualstudiocode&logoColor=dc143c)
-
+<img src="./assets/pipeline-anime.svg" width="100%" alt="pipeline" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> ls projects/ --detail`
+## `// current stack load — スキル`
 
-<table>
+<div align="center">
+<img src="./assets/skills-anime.svg" width="100%" alt="skills" />
+</div>
+
+<br/>
+
+## `// live signal — real-time`
+
+> These re-render live on every page load.
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra524&show_icons=true&theme=transparent&title_color=ff2d95&icon_color=00e5ff&text_color=c9b6e8&border_color=3a1a52&border_radius=16&include_all_commits=true&count_private=true&ring_color=ff2d95" />
+<img width="49%" src="https://leetcard.jacoblin.cool/kushagra_20?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kushagra524&theme=highcontrast&background=0d051a&ring=ff2d95&fire=00e5ff&currStreakLabel=ff2d95&currStreakNum=f0e6ff&sideLabels=c9b6e8&sideNums=c9b6e8&border=3a1a52&border_radius=16)](https://github.com/Kushagra524)
+</div>
+
+> **Kaggle & LinkedIn:** neither exposes a public real-time API, so a live card isn't technically possible for either — the badges above link straight to your live profiles instead.
+
+<br/>
+
+## `// contribution activity`
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra524&bg_color=0d051a&color=00e5ff&line=ff2d95&point=f0e6ff&area=true&area_color=241238&border_radius=16" />
+</div>
+
+<br/>
+
+## `// achievements — 実績`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kushagra524&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
+## `// contribution snake`
+
+> One-time setup, then it truly updates itself daily.
+> 1. Add the included `snake.yml` to `.github/workflows/snake.yml`
+> 2. Push — GitHub Actions runs it automatically
+> 3. It builds an `output` branch with the SVG below, regenerated daily from your real graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kushagra524/Kushagra524/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+</div>
+
+<br/>
+
+## `// deployed`
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/01-SHIPPED-dc143c?style=flat-square&labelColor=0a0a0f" />
-Di-Still AI Summarizer
-</h3>
-
-Intelligent document summarizer — **LangChain + Groq + HuggingFace embeddings**, deployed on Streamlit Cloud. Multi-doc ingestion, semantic chunking, retrievalQA chain.
-
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logoColor=dc143c)
-![Groq](https://img.shields.io/badge/Groq-0a0a0f?style=flat-square&logoColor=dc143c)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=flat-square&logoColor=dc143c)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+**AI Career Copilot**
+ML/AI job discovery, resume generation, application tracking
+`Next.js 15` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/02-SHIPPED-dc143c?style=flat-square&labelColor=0a0a0f" />
-Conversational PDF Chat
-</h3>
-
-RAG pipeline with **session-aware memory**, ChromaDB vector store, Groq inference. Multi-turn conversations over user-uploaded PDFs with full context retention.
-
-![RAG](https://img.shields.io/badge/RAG-0a0a0f?style=flat-square&logoColor=dc143c)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0a0a0f?style=flat-square&logoColor=dc143c)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logoColor=dc143c)
-![Groq](https://img.shields.io/badge/Groq-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+**US Stock Return Prediction** — *Kaggle*
+CatBoost + GroupKFold, COVID-2020 excluded → RMSE 41.60
+`CatBoost` `Huber Loss` `GroupKFold`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/03-SHIPPED-dc143c?style=flat-square&labelColor=0a0a0f" />
-AI Search Engine Agent
-</h3>
-
-**LangChain ReAct agent** — DuckDuckGo + Wikipedia + Arxiv tools. Live web search, academic paper retrieval, deployed on Streamlit Cloud with API secrets management.
-
-![ReAct](https://img.shields.io/badge/ReAct-0a0a0f?style=flat-square&logoColor=dc143c)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=flat-square&logoColor=dc143c)
-![Groq](https://img.shields.io/badge/Groq-0a0a0f?style=flat-square&logoColor=dc143c)
-![Streamlit](https://img.shields.io/badge/Streamlit_Cloud-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+**Di-Still AI Summarizer**
+RAG pipeline with streaming output, deployed on Streamlit Cloud
+`LangChain` `Groq` `HuggingFace` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/04-SHIPPED-dc143c?style=flat-square&labelColor=0a0a0f" />
-Triage Acuity Predictor
-</h3>
-
-Clinical ML — **LightGBM** on patient vitals. Class imbalance via SMOTE, clinical feature engineering, calibrated probabilities. Streamlit dashboard for live triage scoring.
-
-![LightGBM](https://img.shields.io/badge/LightGBM-0a0a0f?style=flat-square&logoColor=dc143c)
-![SMOTE](https://img.shields.io/badge/SMOTE-0a0a0f?style=flat-square&logoColor=dc143c)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0f?style=flat-square&logoColor=dc143c)
-![Clinical_ML](https://img.shields.io/badge/Clinical_ML-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+**Conversational PDF Chat**
+Session-aware RAG, multi-PDF support, MMR retrieval
+`ChromaDB` `LangChain` `Streamlit Cloud`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/05-ACTIVE-fbbf24?style=flat-square&labelColor=0a0a0f" />
-US Stock Return Prediction
-</h3>
-
-Kaggle — 1-year forward return prediction from fundamentals. **CatBoost + GroupKFold CV** (year-based). Key insight: COVID-2020 exclusion → **RMSE 41.60**. Huber loss, target clipped `[-1, 5]`.
-
-![CatBoost](https://img.shields.io/badge/CatBoost-0a0a0f?style=flat-square&logoColor=dc143c)
-![GroupKFold](https://img.shields.io/badge/GroupKFold-0a0a0f?style=flat-square&logoColor=dc143c)
-![Huber](https://img.shields.io/badge/Huber_Loss-0a0a0f?style=flat-square&logoColor=dc143c)
-![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Notebook-0a0a0f?style=for-the-badge&logo=kaggle&logoColor=dc143c)](https://kaggle.com/kushagrasrivastava21)
+**AI Search Engine Agent**
+ReAct agent for live web + academic search
+`LangChain` `Groq` `DuckDuckGo/Wikipedia/Arxiv`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://img.shields.io/badge/06-SHIPPED-dc143c?style=flat-square&labelColor=0a0a0f" />
-Restaurant Recommender
-</h3>
-
-Cognifyz internship — two-part system: **cosine similarity** recommender + **multi-class cuisine classifier**. Full pipeline: ingestion → preprocessing → model → evaluation.
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0f?style=flat-square&logoColor=dc143c)
-![Cosine_Sim](https://img.shields.io/badge/Cosine_Similarity-0a0a0f?style=flat-square&logoColor=dc143c)
-![Multiclass](https://img.shields.io/badge/Multiclass_Clf-0a0a0f?style=flat-square&logoColor=dc143c)
-
-[![View](https://img.shields.io/badge/View_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524)
+**Triage Acuity Predictor**
+Clinical ML on patient vitals, class imbalance handling
+`LightGBM` `SMOTE` `React Dashboard`
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> github stats --realtime`
-
 <div align="center">
 
-
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kushagra524&theme=highcontrast&background=0a0a0f&ring=dc143c&fire=ff4444&currStreakLabel=dc143c&currStreakNum=ffffff&sideLabels=cc4466&sideNums=cc4466&border=2d0020&border_radius=10&dates=666688)](https://github.com/Kushagra524)
+[![View all repos](https://img.shields.io/badge/View_All_Repos-180a2c?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=180a2c)](https://github.com/Kushagra524?tab=repositories)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> git log --contributions`
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra524&bg_color=0a0a0f&color=cc4466&line=dc143c&point=ffffff&area=true&area_color=2d0020&border_radius=10&hide_border=false&custom_title=Kushagra's%20Contribution%20Graph" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> competitive --status`
-
-<div align="center">
-
-| Platform | Handle | Status |
-|----------|--------|--------|
-| ![Kaggle](https://img.shields.io/badge/Kaggle-0a0a0f?style=flat-square&logo=kaggle&logoColor=dc143c) | [kushagrasrivastava21](https://kaggle.com/kushagrasrivastava21) | Active competitor |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0f?style=flat-square&logo=leetcode&logoColor=dc143c) | [LeetCode-DSA Repo](https://github.com/Kushagra524/LeetCode-DSA) | Daily grind 🔥 |
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  KAGGLE  ·  US Stock Return Prediction                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Model     →  CatBoost + GroupKFold CV (year-based splits)       ║
-║  Loss      →  Huber  (robust to financial outliers)              ║
-║  Insight   →  Exclude COVID-2020 regime  →  RMSE 41.60           ║
-║  Target    →  Clipped to [-1, +5]  (outlier suppression)         ║
-║  Status    →  ACTIVE — feature engineering in progress           ║
-╚══════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════╗
-║  LEETCODE  ·  DSA Practice Repo                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Format    →  Jupyter notebooks  (.ipynb)                        ║
-║  Style     →  problem → intuition → brute → optimized            ║
-║  Topics    →  Arrays, Two Pointers, Sliding Window, Stack,       ║
-║               Binary Search, Linked Lists, Trees,                ║
-║               Graphs, Dynamic Programming (in progress)          ║
-║  Approach  →  Pattern-first. Readable Python. No tricks.         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[![LeetCode-DSA](https://img.shields.io/badge/View_DSA_Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c)](https://github.com/Kushagra524/LeetCode-DSA)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> experience --intern`
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  [CURRENT]  Machine Learning Intern                              │                                                                │
-│  ▸  Python  ·  ML pipelines  ·  model deployment                 │
-└──────────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────────┐
-│  [COMPLETED]  Machine Learning Intern                            │
-│  ▸  Cognifyz Technologies                                        │
-│  ▸  Restaurant recommender  (cosine similarity)                  │
-│  ▸  Multi-class cuisine classifier                               │
-│  ▸  Scikit-learn  ·  Pandas  ·  Python                           │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> certifications --verified`
-
-<div align="center">
-
-## 📜 Certifications
-
-| # | Certificate | Issuer | Domain |
-|:-:|:------------|:-------|:-------|
-| 01 | **Generative AI with LangChain + HuggingFace** *(57.5 hrs)* | Udemy · Krish Naik | `GenAI` `LLMs` `RAG` |
-| 02 | **Generative AI and ChatGPT** | GeeksforGeeks | `GenAI` |
-| 03 | **Data Science Bootcamp** | GeeksforGeeks | `ML` `Data Science` |
-| 04 | **Python Programming** | GeeksforGeeks | `Core Python` |
-| 05 | **ML Internship Certificate** | Prodigy InfoTech | `Applied ML` |
-| 06 | **ML Internship Certificate** | Cognifyz Technologies | `Applied ML` |
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> connect --open`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=dc143c&labelColor=0a0a0f)](https://linkedin.com/in/kushagra-srivastava-19a170332)
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=dc143c&labelColor=0a0a0f)](https://github.com/Kushagra524)
-[![Kaggle](https://img.shields.io/badge/Follow-Kaggle-0a0a0f?style=for-the-badge&logo=kaggle&logoColor=dc143c&labelColor=0a0a0f)](https://kaggle.com/kushagrasrivastava21)
-[![Email](https://img.shields.io/badge/Email_Me-Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=dc143c&labelColor=0a0a0f)](mailto:kushagrasrivastava524@gmail.com)
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=The+best+way+to+predict+the+future+is+to+build+it." alt="Typing SVG" />
-</p>
+## `// experience.log`
+
+```
+[current]    ML Intern — Prodigy InfoTech
+             python · ml pipelines · model deployment
+             completion certificate → PASTE-PRODIGY-CERTIFICATE-LINK-HERE
+
+[completed]  ML Intern — Cognifyz Technologies
+             restaurant recommender (cosine similarity)
+             multi-class cuisine classifier
+             completion certificate → PASTE-COGNIFYZ-CERTIFICATE-LINK-HERE
+```
 
 <br/>
 
+## `// certifications.json`
+
+> ⚠️ **This is where you attach your links.** Each `#` below is a placeholder — replace it with the certificate's real URL (Udemy certificate share-link, GeeksforGeeks credential link, Google Drive share-link for internship certificates, etc.). Once swapped, clicking the row title opens the actual certificate.
+
+| Certificate | Issuer | Domain | Link to paste |
+|---|---|---|---|
+| [Generative AI with LangChain + HuggingFace *(57.5 hrs)*](#) | Udemy · Krish Naik | GenAI · LLMs · RAG | ← replace `#` here |
+| [Generative AI and ChatGPT](#) | GeeksforGeeks | GenAI | ← replace `#` here |
+| [Data Science Bootcamp](#) | GeeksforGeeks | ML · Data Science | ← replace `#` here |
+| [Python Programming](#) | GeeksforGeeks | Core Python | ← replace `#` here |
+| [ML Internship Completion Certificate](#) | **Prodigy InfoTech** | Applied ML | ← replace `#` here |
+| [ML Internship Completion Certificate](#) | **Cognifyz Technologies** | Applied ML | ← replace `#` here |
+
+<br/>
+
+<div align="center">
+
+`> connect --open`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-180a2c?style=for-the-badge&logo=linkedin&logoColor=ff2d95&labelColor=180a2c)](https://linkedin.com/in/kushagra-srivastava-19a170332)
+[![GitHub](https://img.shields.io/badge/GitHub-180a2c?style=for-the-badge&logo=github&logoColor=ff2d95&labelColor=180a2c)](https://github.com/Kushagra524)
+[![Kaggle](https://img.shields.io/badge/Kaggle-180a2c?style=for-the-badge&logo=kaggle&logoColor=00e5ff&labelColor=180a2c)](https://kaggle.com/kushagrasrivastava21)
+[![Email](https://img.shields.io/badge/Email-180a2c?style=for-the-badge&logo=gmail&logoColor=ff2d95&labelColor=180a2c)](mailto:kushagrasrivastava524@gmail.com)
+
+<br/>
+
+*building systems that ship, one commit at a time. 🌸*
+
+</div>

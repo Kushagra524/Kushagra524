@@ -1,0 +1,61 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#150826"/>
+      <stop offset="100%" stop-color="#0d051a"/>
+    </linearGradient>
+    <filter id="pglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="220" rx="18" fill="url(#pbg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="219" rx="18" fill="none" stroke="#3a1a52"/>
+
+  <text x="40" y="38" font-family="JetBrains Mono, monospace" font-size="14" fill="#a97fd4">// how i build — 構築フロー</text>
+
+  <line x1="130" y1="120" x2="1070" y2="120" stroke="#3a1a52" stroke-width="2"/>
+
+  <line x1="130" y1="120" x2="1070" y2="120" stroke="#ff2d95" stroke-width="3" stroke-dasharray="10 30" filter="url(#pglow)">
+    <animate attributeName="stroke-dashoffset" from="940" to="0" dur="2.6s" repeatCount="indefinite"/>
+  </line>
+
+  <g fill="#00e5ff" filter="url(#pglow)">
+    <circle r="3.5"><animateMotion dur="2.2s" repeatCount="indefinite" path="M130,120 L1070,120"/></circle>
+    <circle r="3" fill="#ff2d95"><animateMotion dur="2.2s" begin="0.75s" repeatCount="indefinite" path="M130,120 L1070,120"/></circle>
+    <circle r="2.6" fill="#c74bff"><animateMotion dur="2.2s" begin="1.5s" repeatCount="indefinite" path="M130,120 L1070,120"/></circle>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+    <circle cx="130" cy="120" r="34" fill="#180a2c" stroke="#ff2d95" stroke-width="2"/>
+    <text x="130" y="126" font-size="13" fill="#f0e6ff" font-weight="700">DATA</text>
+    <text x="130" y="172" font-size="12" fill="#a97fd4">ingest · clean</text>
+
+    <circle cx="317" cy="120" r="34" fill="#180a2c" stroke="#ff2d95" stroke-width="2"/>
+    <text x="317" y="126" font-size="13" fill="#f0e6ff" font-weight="700">TRAIN</text>
+    <text x="317" y="172" font-size="12" fill="#a97fd4">catboost/xgb</text>
+
+    <circle cx="504" cy="120" r="34" fill="#180a2c" stroke="#00e5ff" stroke-width="2"/>
+    <text x="504" y="126" font-size="12.5" fill="#f0e6ff" font-weight="700">EVALUATE</text>
+    <text x="504" y="172" font-size="12" fill="#a97fd4">cv · metrics</text>
+
+    <circle cx="691" cy="120" r="34" fill="#180a2c" stroke="#00e5ff" stroke-width="2"/>
+    <text x="691" y="120" font-size="12.5" fill="#f0e6ff" font-weight="700">SERVE</text>
+    <text x="691" y="134" font-size="10.5" fill="#f0e6ff">/RAG</text>
+    <text x="691" y="172" font-size="12" fill="#a97fd4">langchain</text>
+
+    <circle cx="878" cy="120" r="34" fill="#180a2c" stroke="#ff2d95" stroke-width="2"/>
+    <text x="878" y="126" font-size="13" fill="#f0e6ff" font-weight="700">DEPLOY</text>
+    <text x="878" y="172" font-size="12" fill="#a97fd4">docker · cloud</text>
+
+    <circle cx="1070" cy="120" r="38" fill="#2a0f3f" stroke="#ff2d95" stroke-width="2.5" filter="url(#pglow)">
+      <animate attributeName="r" values="38;43;38" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1070" y="126" font-size="14" fill="#ffffff" font-weight="800">SHIP</text>
+    <text x="1070" y="176" font-size="12" fill="#a97fd4">→ iterate</text>
+  </g>
+
+  <path d="M 1070 158 C 1070 205, 130 205, 130 158" fill="none" stroke="#3a1a52" stroke-width="1.6" stroke-dasharray="4 6"/>
+  <polygon points="124,150 130,160 137,150" fill="#3a1a52"/>
+</svg>

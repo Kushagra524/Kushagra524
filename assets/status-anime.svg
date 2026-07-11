@@ -1,0 +1,7 @@
+<svg width="380" height="44" viewBox="0 0 380 44" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="380" height="44" rx="22" fill="#180a2c" stroke="#3a1a52"/>
+  <circle cx="26" cy="22" r="6" fill="#ff2d95">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="27" font-family="JetBrains Mono, monospace" font-size="14" fill="#c9b6e8">SYSTEM STATUS: ONLINE · OPEN TO WORK</text>
+</svg>

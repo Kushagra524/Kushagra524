@@ -1,0 +1,82 @@
+<svg width="1200" height="290" viewBox="0 0 1200 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2d95"/>
+      <stop offset="50%" stop-color="#c74bff"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#150826"/>
+      <stop offset="100%" stop-color="#0d051a"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip1"><rect x="330" y="62" width="530" height="14" rx="7"/></clipPath>
+    <clipPath id="clip2"><rect x="330" y="102" width="500" height="14" rx="7"/></clipPath>
+    <clipPath id="clip3"><rect x="330" y="142" width="470" height="14" rx="7"/></clipPath>
+    <clipPath id="clip4"><rect x="330" y="182" width="450" height="14" rx="7"/></clipPath>
+    <clipPath id="clip5"><rect x="330" y="222" width="380" height="14" rx="7"/></clipPath>
+    <clipPath id="clip6"><rect x="330" y="262" width="330" height="14" rx="7"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="290" rx="18" fill="url(#sbg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="289" rx="18" fill="none" stroke="#3a1a52"/>
+
+  <text x="40" y="38" font-family="JetBrains Mono, monospace" font-size="14" fill="#a97fd4">// current stack load — スキル</text>
+
+  <g font-family="JetBrains Mono, monospace" font-size="15">
+    <text x="40" y="76" fill="#f0e6ff">Python &amp; Core ML</text>
+    <rect x="330" y="62" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="62" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="530" dur="1.3s" begin="0.1s" fill="freeze"/>
+    </rect>
+    <text x="910" y="74" fill="#a97fd4" font-size="13">daily driver</text>
+
+    <text x="40" y="116" fill="#f0e6ff">CatBoost / XGBoost / LightGBM</text>
+    <rect x="330" y="102" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="102" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="500" dur="1.3s" begin="0.25s" fill="freeze"/>
+    </rect>
+    <text x="910" y="114" fill="#a97fd4" font-size="13">production</text>
+
+    <text x="40" y="156" fill="#f0e6ff">LangChain / LangGraph</text>
+    <rect x="330" y="142" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="142" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="470" dur="1.3s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <text x="910" y="154" fill="#a97fd4" font-size="13">shipped</text>
+
+    <text x="40" y="196" fill="#f0e6ff">RAG &amp; Vector Search</text>
+    <rect x="330" y="182" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="182" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="450" dur="1.3s" begin="0.55s" fill="freeze"/>
+    </rect>
+    <text x="910" y="194" fill="#a97fd4" font-size="13">shipped</text>
+
+    <text x="40" y="236" fill="#f0e6ff">Deep Learning</text>
+    <rect x="330" y="222" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="222" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="380" dur="1.3s" begin="0.7s" fill="freeze"/>
+    </rect>
+    <text x="910" y="234" fill="#a97fd4" font-size="13">comfortable</text>
+
+    <text x="40" y="276" fill="#f0e6ff">Docker / Deployment</text>
+    <rect x="330" y="262" width="560" height="14" rx="7" fill="#241238"/>
+    <rect x="330" y="262" height="14" rx="7" fill="url(#barGrad)" width="0">
+      <animate attributeName="width" from="0" to="330" dur="1.3s" begin="0.85s" fill="freeze"/>
+    </rect>
+    <text x="910" y="274" fill="#a97fd4" font-size="13">learning</text>
+  </g>
+
+  <g fill="url(#shimmer)">
+    <rect x="330" y="62" width="70" height="14" clip-path="url(#clip1)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="330" y="102" width="70" height="14" clip-path="url(#clip2)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="330" y="142" width="70" height="14" clip-path="url(#clip3)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="2.1s" repeatCount="indefinite"/></rect>
+    <rect x="330" y="182" width="70" height="14" clip-path="url(#clip4)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="330" y="222" width="70" height="14" clip-path="url(#clip5)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="2.7s" repeatCount="indefinite"/></rect>
+    <rect x="330" y="262" width="70" height="14" clip-path="url(#clip6)"><animate attributeName="x" from="280" to="860" dur="2.2s" begin="3.0s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

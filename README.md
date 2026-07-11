@@ -30,7 +30,7 @@
 
 <br/>
 
-## `// how i build — 構築フロー`
+## `// How i build
 
 <div align="center">
 <img src="./assets/pipeline-anime.svg" width="100%" alt="pipeline" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-## `// current stack load — スキル`
+## `// Current stack load
 
 <div align="center">
 <img src="./assets/skills-anime.svg" width="100%" alt="skills" />
@@ -47,8 +47,6 @@
 <br/>
 
 ## `// live signal — real-time`
-
-> These re-render live on every page load.
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra524&show_icons=true&theme=transparent&title_color=ff2d95&icon_color=00e5ff&text_color=c9b6e8&border_color=3a1a52&border_radius=16&include_all_commits=true&count_private=true&ring_color=ff2d95" />
@@ -59,7 +57,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kushagra524&theme=highcontrast&background=0d051a&ring=ff2d95&fire=00e5ff&currStreakLabel=ff2d95&currStreakNum=f0e6ff&sideLabels=c9b6e8&sideNums=c9b6e8&border=3a1a52&border_radius=16)](https://github.com/Kushagra524)
 </div>
 
-> **Kaggle & LinkedIn:** neither exposes a public real-time API, so a live card isn't technically possible for either — the badges above link straight to your live profiles instead.
+> **Kaggle & LinkedIn:**
 
 <br/>
 
@@ -71,20 +69,9 @@
 
 <br/>
 
-## `// achievements — 実績`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kushagra524&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
 <br/>
 
 ## `// contribution snake`
-
-> One-time setup, then it truly updates itself daily.
-> 1. Add the included `snake.yml` to `.github/workflows/snake.yml`
-> 2. Push — GitHub Actions runs it automatically
-> 3. It builds an `output` branch with the SVG below, regenerated daily from your real graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kushagra524/Kushagra524/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
@@ -96,13 +83,6 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**AI Career Copilot**
-ML/AI job discovery, resume generation, application tracking
-`Next.js 15` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-</td>
 <td width="50%" valign="top">
 
 **US Stock Return Prediction** — *Kaggle*
@@ -169,8 +149,6 @@ Clinical ML on patient vitals, class imbalance handling
 <br/>
 
 ## `// certifications.json`
-
-> ⚠️ **This is where you attach your links.** Each `#` below is a placeholder — replace it with the certificate's real URL (Udemy certificate share-link, GeeksforGeeks credential link, Google Drive share-link for internship certificates, etc.). Once swapped, clicking the row title opens the actual certificate.
 
 | Certificate | Issuer | Domain | Link to paste |
 |---|---|---|---|

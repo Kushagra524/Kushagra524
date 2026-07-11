@@ -39,7 +39,7 @@ profile = {
     "university"  : "Sage University, Bhopal (B.Tech CSE — 2024 → 2028)",
     "gpa"         : "8.93 / 10.0",
     "focus"       : ["LLMs", "RAG Pipelines", "Production ML", "Competitive ML"],
-    "currently"   : "ML Intern @ Prodigy InfoTech  |  Competing on Kaggle",
+    "intern and active on"   : "ML Intern @ Cognifyz IT Solutions Pvt. Ltd.  |  Competing on Kaggle",
     "daily"       : ["LeetCode grind 🔥", "Open-source contributions (in progress)"],
     "philosophy"  : "Build first. Optimize second. Ship always.",
 }

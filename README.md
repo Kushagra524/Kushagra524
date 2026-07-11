@@ -210,8 +210,7 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra524&show_icons=true&theme=transparent&title_color=dc143c&icon_color=dc143c&text_color=cc4466&border_color=2d0020&border_radius=10&include_all_commits=true&count_private=true&hide_border=false&ring_color=dc143c" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra524&layout=compact&theme=transparent&title_color=dc143c&text_color=cc4466&border_color=2d0020&border_radius=10&langs_count=8&hide_border=false" />
+
 
 <br/><br/>
 
@@ -244,24 +243,24 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  KAGGLE  ·  US Stock Return Prediction                          ║
+║  KAGGLE  ·  US Stock Return Prediction                           ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Model     →  CatBoost + GroupKFold CV (year-based splits)      ║
-║  Loss      →  Huber  (robust to financial outliers)             ║
-║  Insight   →  Exclude COVID-2020 regime  →  RMSE 41.60          ║
-║  Target    →  Clipped to [-1, +5]  (outlier suppression)        ║
-║  Status    →  ACTIVE — feature engineering in progress          ║
+║  Model     →  CatBoost + GroupKFold CV (year-based splits)       ║
+║  Loss      →  Huber  (robust to financial outliers)              ║
+║  Insight   →  Exclude COVID-2020 regime  →  RMSE 41.60           ║
+║  Target    →  Clipped to [-1, +5]  (outlier suppression)         ║
+║  Status    →  ACTIVE — feature engineering in progress           ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 ╔══════════════════════════════════════════════════════════════════╗
-║  LEETCODE  ·  DSA Practice Repo                                 ║
+║  LEETCODE  ·  DSA Practice Repo                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Format    →  Jupyter notebooks  (.ipynb)                       ║
-║  Style     →  problem → intuition → brute → optimized           ║
-║  Topics    →  Arrays, Two Pointers, Sliding Window, Stack,      ║
-║               Binary Search, Linked Lists, Trees,               ║
-║               Graphs, Dynamic Programming (in progress)         ║
-║  Approach  →  Pattern-first. Readable Python. No tricks.        ║
+║  Format    →  Jupyter notebooks  (.ipynb)                        ║
+║  Style     →  problem → intuition → brute → optimized            ║
+║  Topics    →  Arrays, Two Pointers, Sliding Window, Stack,       ║
+║               Binary Search, Linked Lists, Trees,                ║
+║               Graphs, Dynamic Programming (in progress)          ║
+║  Approach  →  Pattern-first. Readable Python. No tricks.         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -273,9 +272,8 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  [CURRENT]  Machine Learning Intern                              │
-│  ▸  Prodigy InfoTech                                             │
-│  ▸  Python  ·  ML pipelines  ·  model deployment                │
+│  [CURRENT]  Machine Learning Intern                              │                                                                │
+│  ▸  Python  ·  ML pipelines  ·  model deployment                 │
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
@@ -283,7 +281,7 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 │  ▸  Cognifyz Technologies                                        │
 │  ▸  Restaurant recommender  (cosine similarity)                  │
 │  ▸  Multi-class cuisine classifier                               │
-│  ▸  Scikit-learn  ·  Pandas  ·  Python                          │
+│  ▸  Scikit-learn  ·  Pandas  ·  Python                           │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -293,14 +291,17 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 
 <div align="center">
 
+## 📜 Certifications
+
 | # | Certificate | Issuer | Domain |
-|---|-------------|--------|--------|
-| 01 | Generative AI with LangChain + HuggingFace *(57.5 hrs)* | Udemy · Krish Naik | GenAI · LLMs · RAG |
-| 02 | Generative AI and ChatGPT | GeeksforGeeks | GenAI |
-| 03 | Data Science Bootcamp | GeeksforGeeks | ML · Data Science |
-| 04 | Python Programming | GeeksforGeeks | Core Python |
-| 05 | ML Internship Certificate | Prodigy InfoTech | Applied ML |
-| 06 | ML Internship Certificate | Cognifyz Technologies | Applied ML |
+|:-:|:------------|:-------|:-------|
+| 01 | **Generative AI with LangChain + HuggingFace** *(57.5 hrs)* | Udemy · Krish Naik | `GenAI` `LLMs` `RAG` |
+| 02 | **Generative AI and ChatGPT** | GeeksforGeeks | `GenAI` |
+| 03 | **Data Science Bootcamp** | GeeksforGeeks | `ML` `Data Science` |
+| 04 | **Python Programming** | GeeksforGeeks | `Core Python` |
+| 05 | **ML Internship Certificate** | Prodigy InfoTech | `Applied ML` |
+| 06 | **ML Internship Certificate** | Cognifyz Technologies | `Applied ML` |
+
 
 </div>
 
@@ -317,7 +318,9 @@ Cognifyz internship — two-part system: **cosine similarity** recommender + **m
 
 <br/>
 
-> *"The best way to predict the future is to build it."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=The+best+way+to+predict+the+future+is+to+build+it." alt="Typing SVG" />
+</p>
 
 <br/>
 

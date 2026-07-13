@@ -136,14 +136,9 @@ Clinical ML on patient vitals, class imbalance handling
 ## `// experience.log`
 
 ```
-[current]    ML Intern — Prodigy InfoTech
-             python · ml pipelines · model deployment
-             completion certificate → PASTE-PRODIGY-CERTIFICATE-LINK-HERE
-
 [completed]  ML Intern — Cognifyz Technologies
              restaurant recommender (cosine similarity)
              multi-class cuisine classifier
-             completion certificate → PASTE-COGNIFYZ-CERTIFICATE-LINK-HERE
 ```
 
 <br/>

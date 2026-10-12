@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-ronin.svg" width="100%" alt="Kushagra Srivastava — AI/ML Engineer" />
+<img src="hero-ronin.svg" width="100%" alt="Kushagra Srivastava — AI/ML Engineer" />
 
 <a href="https://github.com/Kushagra524"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF2D95&center=true&vCenter=true&width=760&lines=RAG+pipelines+that+answer+with+sources;Agents+that+search%2C+reason+and+act;Boosted+trees+tuned+on+honest+validation;Prototype+%E2%86%92+deployed+app" alt="typing intro" /></a>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ⚔️ The Mission
 
@@ -22,7 +22,7 @@
 
 Open for **freelance & contract work**. If you have a messy problem and need a working, deployed answer, [send me a message](mailto:kushagrasrivastava524@gmail.com?subject=Project%20inquiry).
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🥷 Contracts I Take
 
@@ -33,17 +33,17 @@ Open for **freelance & contract work**. If you have a messy problem and need a w
 | **Predictive ML** | Tabular models with leak-proof validation and clear metrics | *US Stock Return Prediction*, *Triage Acuity Predictor* |
 | **Ship it** | Streamlit / React front-ends, deployed and shareable | Every project below is live or runnable |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌀 How I Build
 
-<img src="./assets/pipeline.svg" width="100%" alt="Frame, Data, Model, Evaluate, Ship" />
+<img src="pipeline.svg" width="100%" alt="Frame, Data, Model, Evaluate, Ship" />
 
 ## 🗡️ Arsenal
 
-<img src="./assets/skills.svg" width="100%" alt="Skills: Generative AI, RAG and Agents, Classical ML, Ship" />
+<img src="skills.svg" width="100%" alt="Skills: Generative AI, RAG and Agents, Classical ML, Ship" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🔥 Shipped Work
 
@@ -105,7 +105,7 @@ Clinical ML on patient vitals, with class-imbalance handling and a React dashboa
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📡 Live Signal
 
@@ -131,7 +131,7 @@ Clinical ML on patient vitals, with class-imbalance handling and a React dashboa
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📜 Mission Log
 
@@ -164,7 +164,7 @@ Clinical ML on patient vitals, with class-imbalance handling and a React dashboa
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <div align="center">
 

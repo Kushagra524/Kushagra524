@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Kushagra Srivastava, AI/ML Engineer. Animated intro: a boot sequence is sliced in half by a katana to reveal the profile.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d051a"/><stop offset="1" stop-color="#220c3a"/></linearGradient>
+<linearGradient id="cut" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d95" stop-opacity="0"/><stop offset=".2" stop-color="#ff2d95"/><stop offset=".6" stop-color="#ffffff"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+<linearGradient id="blade" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2d95"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00e5ff" stop-opacity="0"/><stop offset=".5" stop-color="#00e5ff" stop-opacity=".18"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient>
+<pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".28"/></pattern>
+<clipPath id="upper"><polygon points="0,0 1200,0 1200,120 0,400"/></clipPath>
+<clipPath id="lower"><polygon points="0,400 1200,120 1200,520 0,520"/></clipPath>
+
+<g id="boot">
+<rect width="1200" height="520" fill="#0d051a"/>
+<rect x="24" y="24" width="1152" height="472" fill="none" stroke="#3a1a52" stroke-width="2"/>
+<text class="bt dim" x="60" y="70">KUSHAGRA.SYS // BOOT SEQUENCE // 2026</text>
+<g class="ln"><text class="bt" x="60" y="136">&gt; loading genai ........................ <tspan class="ok">[ OK ]</tspan></text><rect class="cv c1" x="52" y="114" width="1100" height="30"/></g>
+<g class="ln"><text class="bt" x="60" y="180">&gt; loading rag + agents ................. <tspan class="ok">[ OK ]</tspan></text><rect class="cv c2" x="52" y="158" width="1100" height="30"/></g>
+<g class="ln"><text class="bt" x="60" y="224">&gt; loading applied-ml ................... <tspan class="ok">[ OK ]</tspan></text><rect class="cv c3" x="52" y="202" width="1100" height="30"/></g>
+<g class="ln"><text class="bt" x="60" y="268">&gt; sharpening katana .................... <tspan class="ok">[ OK ]</tspan></text><rect class="cv c4" x="52" y="246" width="1100" height="30"/></g>
+<text class="big" x="60" y="364">UNSHEATHING_</text>
+<rect x="60" y="388" width="640" height="10" fill="#180a2c" stroke="#3a1a52"/>
+<rect class="prog" x="60" y="388" width="640" height="10" fill="url(#blade)"/>
+<polygon points="700,383 740,393 700,403" fill="#00e5ff" class="tip"/>
+</g>
+
+<style>
+text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
+.bt{font-size:20px;fill:#c9b6e8;white-space:pre}.dim{fill:#6f5a93;font-size:14px;letter-spacing:3px}.ok{fill:#00e5ff;font-weight:700}
+.big{font-size:44px;font-weight:800;fill:#ff2d95;letter-spacing:6px}
+.cv{fill:#0d051a;transform-box:view-box}
+.c1{animation:t1 14s steps(26) infinite}.c2{animation:t2 14s steps(26) infinite}.c3{animation:t3 14s steps(26) infinite}.c4{animation:t4 14s steps(26) infinite}
+.prog{transform-box:view-box;transform-origin:60px 393px;animation:pg 14s linear infinite}
+.tip{animation:tipK 14s linear infinite}
+.up,.lo{opacity:0}
+.up{animation:upK 14s cubic-bezier(.5,0,.2,1) infinite}
+.lo{animation:loK 14s cubic-bezier(.5,0,.2,1) infinite}
+.seam{fill:none;stroke:url(#cut);stroke-width:4;stroke-linecap:round;stroke-dasharray:1500;stroke-dashoffset:1500;opacity:0;animation:seamK 14s cubic-bezier(.2,.8,.2,1) infinite}
+.seamg{fill:none;stroke:#ff2d95;stroke-width:16;stroke-linecap:round;stroke-dasharray:1500;stroke-dashoffset:1500;opacity:0;filter:blur(6px);animation:seamK 14s cubic-bezier(.2,.8,.2,1) infinite}
+.flash{opacity:0;fill:#ffe3f3;animation:flashK 14s ease-out infinite}
+
+.grid{stroke:#ff2d95;stroke-opacity:.28;stroke-width:1}
+.hl{stroke:#ff2d95;stroke-width:1.4;opacity:0;animation:hl 3.6s linear infinite}
+.ring{transform-box:view-box;transform-origin:930px 236px}
+.r1{animation:spin 24s linear infinite}.r2{animation:spin 16s linear infinite reverse}.r3{animation:spin 40s linear infinite}
+.kanji{font-family:'Noto Sans JP','Yu Gothic','Meiryo','Hiragino Sans',sans-serif;font-size:210px;font-weight:900;fill:none;stroke:#ff2d95;stroke-opacity:.25;stroke-width:1.5}
+.glint{opacity:0;animation:gl 5s ease-in-out infinite}
+.scanbar{animation:sb 5s linear infinite}
+
+.nm{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:92px;letter-spacing:4px}
+.nm2{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:54px;letter-spacing:14px;fill:none;stroke:#ff2d95;stroke-width:1.8}
+.pk{fill:#ff2d95;opacity:.85;animation:gp 14s steps(1) infinite}.cy{fill:#00e5ff;opacity:.85;animation:gc 14s steps(1) infinite}.wh{fill:#f0e6ff}
+.role{font-size:17px;font-weight:800;letter-spacing:7px;fill:#0d051a}
+.tag{font-size:15px;letter-spacing:2px;fill:#c9b6e8}
+.chip{fill:#180a2c;stroke:#3a1a52;stroke-width:1.2}.chipt{font-size:12px;letter-spacing:1px;fill:#f0e6ff}
+.st{font-size:13px;letter-spacing:4px;fill:#00e5ff}
+.dot{animation:blink 1.4s ease-in-out infinite}
+.hud{font-size:11.5px;letter-spacing:2px;fill:#c9b6e8}.hudv{font-size:11.5px;letter-spacing:2px;fill:#ff2d95;font-weight:700}
+.i1{animation:in1 14s cubic-bezier(.2,.8,.2,1) infinite}.i2{animation:in2 14s cubic-bezier(.2,.8,.2,1) infinite}.i3{animation:in3 14s cubic-bezier(.2,.8,.2,1) infinite}.i4{animation:in4 14s cubic-bezier(.2,.8,.2,1) infinite}.i5{animation:in5 14s cubic-bezier(.2,.8,.2,1) infinite}
+
+@keyframes t1{0%,3%{transform:translateX(0)}9%,100%{transform:translateX(1100px)}}
+@keyframes t2{0%,9%{transform:translateX(0)}15%,100%{transform:translateX(1100px)}}
+@keyframes t3{0%,15%{transform:translateX(0)}21%,100%{transform:translateX(1100px)}}
+@keyframes t4{0%,21%{transform:translateX(0)}27%,100%{transform:translateX(1100px)}}
+@keyframes pg{0%,27%{transform:scaleX(0)}33%,100%{transform:scaleX(1)}}
+@keyframes tipK{0%,27%{transform:translateX(-640px)}33%,100%{transform:translateX(0)}}
+@keyframes upK{0%,34%{opacity:1;transform:translate(0,0)}47%{opacity:0;transform:translate(-34px,-150px)}95%{opacity:0;transform:translate(-34px,-150px)}96%{opacity:0;transform:translate(0,0)}100%{opacity:1;transform:translate(0,0)}}
+@keyframes loK{0%,34%{opacity:1;transform:translate(0,0)}47%{opacity:0;transform:translate(34px,150px)}95%{opacity:0;transform:translate(34px,150px)}96%{opacity:0;transform:translate(0,0)}100%{opacity:1;transform:translate(0,0)}}
+@keyframes seamK{0%,32%{stroke-dashoffset:1500;opacity:1}35.5%{stroke-dashoffset:0;opacity:1}44%{stroke-dashoffset:0;opacity:.9}52%,100%{stroke-dashoffset:0;opacity:0}}
+@keyframes flashK{0%,34%{opacity:0}35.5%{opacity:.75}43%,100%{opacity:0}}
+@keyframes hl{0%{transform:translateY(0);opacity:0}15%{opacity:.7}100%{transform:translateY(190px);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes gl{0%,60%{opacity:0;transform:translate(-120px,60px)}70%{opacity:1}85%,100%{opacity:0;transform:translate(160px,-80px)}}
+@keyframes sb{0%{transform:translateY(-120px)}100%{transform:translateY(560px)}}
+@keyframes gp{0%,46%{transform:translate(0,0)}46.5%{transform:translate(-9px,2px)}47.5%{transform:translate(6px,-2px)}48.5%,69%{transform:translate(0,0)}70%{transform:translate(-8px,0)}71%{transform:translate(7px,1px)}72%,100%{transform:translate(0,0)}}
+@keyframes gc{0%,46%{transform:translate(0,0)}46.5%{transform:translate(9px,-2px)}47.5%{transform:translate(-6px,2px)}48.5%,69%{transform:translate(0,0)}70%{transform:translate(8px,0)}71%{transform:translate(-7px,-1px)}72%,100%{transform:translate(0,0)}}
+@keyframes blink{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes in1{0%,44%{opacity:0;transform:translateX(-40px) skewX(-10deg)}54%,100%{opacity:1;transform:none}}
+@keyframes in2{0%,46%{opacity:0;transform:translateX(-40px) skewX(-10deg)}56%,100%{opacity:1;transform:none}}
+@keyframes in3{0%,48%{opacity:0;transform:translateX(-30px)}58%,100%{opacity:1;transform:none}}
+@keyframes in4{0%,50%{opacity:0;transform:translateY(12px)}60%,100%{opacity:1;transform:none}}
+@keyframes in5{0%,52%{opacity:0}62%,100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.up,.lo,.seam,.seamg,.flash{display:none}.i1,.i2,.i3,.i4,.i5,.pk,.cy,.r1,.r2,.r3{animation:none}}
+</style>
+</defs>
+
+<!-- ============ HERO (visible state) ============ -->
+<rect width="1200" height="520" fill="url(#bg)"/>
+
+<g>
+<g class="grid"><line x1="600" y1="330" x2="-700" y2="520"/><line x1="600" y1="330" x2="-400" y2="520"/><line x1="600" y1="330" x2="-100" y2="520"/><line x1="600" y1="330" x2="200" y2="520"/><line x1="600" y1="330" x2="400" y2="520"/><line x1="600" y1="330" x2="600" y2="520"/><line x1="600" y1="330" x2="800" y2="520"/><line x1="600" y1="330" x2="1000" y2="520"/><line x1="600" y1="330" x2="1300" y2="520"/><line x1="600" y1="330" x2="1600" y2="520"/><line x1="600" y1="330" x2="1900" y2="520"/></g>
+<line class="hl" x1="0" y1="330" x2="1200" y2="330" style="animation-delay:0s"/>
+<line class="hl" x1="0" y1="330" x2="1200" y2="330" style="animation-delay:-.9s"/>
+<line class="hl" x1="0" y1="330" x2="1200" y2="330" style="animation-delay:-1.8s"/>
+<line class="hl" x1="0" y1="330" x2="1200" y2="330" style="animation-delay:-2.7s"/>
+<line x1="0" y1="330" x2="1200" y2="330" stroke="#ff2d95" stroke-opacity=".5"/>
+</g>
+
+<!-- reticle + katana -->
+<g>
+<text class="kanji" x="930" y="318" text-anchor="middle">斬</text>
+<circle cx="930" cy="236" r="160" fill="none" stroke="#3a1a52" stroke-width="2"/>
+<g class="ring r1"><circle cx="930" cy="236" r="150" fill="none" stroke="#ff2d95" stroke-width="10" stroke-dasharray="2 12" opacity=".75"/></g>
+<g class="ring r2"><circle cx="930" cy="236" r="118" fill="none" stroke="#00e5ff" stroke-width="2" stroke-dasharray="90 24 12 24" opacity=".9"/></g>
+<g class="ring r3"><circle cx="930" cy="236" r="86" fill="none" stroke="#f0e6ff" stroke-width="1.5" stroke-dasharray="3 7" opacity=".7"/><polygon points="930,140 938,156 922,156" fill="#ff2d95"/><polygon points="930,332 938,316 922,316" fill="#00e5ff"/></g>
+<g stroke="#c9b6e8" stroke-opacity=".5"><line x1="740" y1="236" x2="800" y2="236"/><line x1="1060" y1="236" x2="1120" y2="236"/><line x1="930" y1="46" x2="930" y2="96"/><line x1="930" y1="376" x2="930" y2="426"/></g>
+<g>
+<line x1="800" y1="384" x2="1070" y2="96" stroke="#ff2d95" stroke-width="14" stroke-linecap="round" opacity=".28" style="filter:blur(5px)"/>
+<line x1="800" y1="384" x2="1070" y2="96" stroke="url(#blade)" stroke-width="5" stroke-linecap="round"/>
+<line x1="808" y1="375" x2="1062" y2="105" stroke="#fff" stroke-width="1.4" opacity=".9"/>
+<polygon points="792,394 818,382 810,370 784,380" fill="#241238" stroke="#ff2d95" stroke-width="2"/>
+<g class="glint"><line x1="860" y1="320" x2="880" y2="298" stroke="#fff" stroke-width="3" stroke-linecap="round"/><circle cx="870" cy="309" r="5" fill="#fff"/></g>
+</g>
+<circle cx="930" cy="236" r="6" fill="#ff2d95"/><circle cx="930" cy="236" r="14" fill="none" stroke="#00e5ff" stroke-width="1.5"/>
+</g>
+
+<!-- name -->
+<g class="i1"><text class="nm pk" x="64" y="190">KUSHAGRA</text><text class="nm cy" x="72" y="190">KUSHAGRA</text><text class="nm wh" x="68" y="190">KUSHAGRA</text></g>
+<g class="i2"><text class="nm2" x="70" y="252">SRIVASTAVA</text></g>
+<g class="i3"><polygon points="76,274 380,274 364,308 60,308" fill="#ff2d95"/><text class="role" x="86" y="297">AI / ML ENGINEER</text></g>
+<g class="i4"><text class="tag" x="68" y="346">GenAI · RAG · Agents · Applied ML — shipped, not sketched</text></g>
+<g class="i5">
+<rect class="chip" x="70" y="372" width="52" height="26" rx="13"/><text class="chipt" x="82" y="389">GENAI</text>
+<rect class="chip" x="132" y="372" width="38" height="26" rx="13"/><text class="chipt" x="143" y="389">RAG</text>
+<rect class="chip" x="180" y="372" width="81" height="26" rx="13"/><text class="chipt" x="192" y="389">LANGGRAPH</text>
+<rect class="chip" x="271" y="372" width="74" height="26" rx="13"/><text class="chipt" x="283" y="389">CATBOOST</text>
+<rect class="chip" x="355" y="372" width="46" height="26" rx="13"/><text class="chipt" x="366" y="389">GROQ</text>
+<rect class="chip" x="411" y="372" width="59" height="26" rx="13"/><text class="chipt" x="423" y="389">KAGGLE</text>
+<circle class="dot" cx="78" cy="431" r="5" fill="#00e5ff"/><text class="st" x="94" y="436">OPEN FOR FREELANCE</text>
+</g>
+
+<!-- HUD strip -->
+<g class="i5">
+<line x1="60" y1="468" x2="1140" y2="468" stroke="#3a1a52"/>
+<text class="hud" x="64" y="490">KAGGLE · US STOCK RETURN · RMSE <tspan class="hudv">41.60</tspan></text>
+<text class="hud" x="500" y="490">SHIPPED PROJECTS · <tspan class="hudv">5</tspan></text>
+<text class="hud" x="780" y="490">LEETCODE · <tspan class="hudv">DAILY</tspan></text>
+<text class="hud" x="1000" y="490" text-anchor="start">CERTIFIED · <tspan class="hudv">6</tspan></text>
+</g>
+
+<rect class="scanbar" x="0" y="0" width="1200" height="120" fill="url(#scan)"/>
+<rect width="1200" height="520" fill="url(#lines)"/>
+<g stroke="#ff2d95" stroke-opacity=".7" fill="none" stroke-width="2"><path d="M20 60 V20 H60"/><path d="M1140 20 H1180 V60"/><path d="M20 460 V500 H60"/><path d="M1180 460 V500 H1140"/></g>
+<g transform="translate(1120 62)"><circle r="20" fill="#ff2d95"/><text x="0" y="8" text-anchor="middle" font-size="22" fill="#0d051a" font-weight="900" style="font-family:'Noto Sans JP','Yu Gothic','Meiryo',sans-serif">忍</text></g>
+
+<!-- ============ INTRO: boot terminal sliced in two ============ -->
+<g class="up" clip-path="url(#upper)"><use href="#boot"/></g>
+<g class="lo" clip-path="url(#lower)"><use href="#boot"/></g>
+<path class="seamg" d="M-60 420 L1260 100"/><path class="seam" d="M-60 420 L1260 100"/>
+<rect class="flash" width="1200" height="520"/>
+</svg>

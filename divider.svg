@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 32" width="1200" height="32" role="presentation" aria-hidden="true">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d95" stop-opacity="0"/><stop offset=".15" stop-color="#c9b6e8"/><stop offset=".6" stop-color="#e8edf5"/><stop offset="1" stop-color="#e8edf5" stop-opacity="0"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<style>.gl{animation:run 4.5s ease-in-out infinite}@keyframes run{0%{transform:translateX(-300px);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(1200px);opacity:0}}</style>
+</defs>
+<rect x="180" y="12" width="26" height="8" rx="2" fill="#ff2d95"/>
+<rect x="150" y="13" width="30" height="6" rx="3" fill="#241238" stroke="#ff2d95" stroke-opacity=".6"/>
+<rect x="206" y="9" width="6" height="14" rx="1" fill="#c9a24a"/>
+<path d="M212 13 H1150 L1190 16 L1150 19 H212Z" fill="url(#b)"/>
+<rect class="gl" x="212" y="14" width="260" height="2" fill="url(#g)"/>
+</svg>
